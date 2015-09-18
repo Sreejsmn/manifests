@@ -1,2 +1,2 @@
 node ''
-class {"test":}
+class {"test1":}
